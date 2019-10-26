@@ -24,7 +24,7 @@ This is the conversion of the matlab version in the Python. Please update if you
  
 # Contributing
 We welcome your contributions. Please feel free to fork the code, play with it, make some patches and send us pull requests.
- [MAIL me](anky.nits.cse@gmail.com) for any discussion on the project or contribution.
+ [MAIL me](neilblaze007@gmail.com) for any discussion on the project or contribution.
 
 # Support
 Please [open an issue on GitHub](https://github.com/Griffintaur/Padestrian-Detection/issues/new) if you'd like to report a bug or request a feature.  
